@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Puzzle</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="mTest">测试信息</string>
+    <string name="main_start">开始游戏</string>
+    <string name="main_loading">载入游戏</string>
+    <string name="main_ranking">查看排名</string>
+    <string name="main_settings">游戏设置</string>
+    <string name="main_exit">退出游戏</string>
+</resources>
